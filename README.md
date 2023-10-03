@@ -1,4 +1,4 @@
-# mongoose-movies
+# Mongoose Movies
 Mongoose Movies is a CRUD web application used to help track and manage your favorite movies along with their cast.
 
 This is a CRUD app built with Express, Express Generator, and Mongoose, designed specifically for managing movie information and reviews. It allows users to add, view, update, and review movies stored in a database.
